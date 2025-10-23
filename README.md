@@ -12,7 +12,7 @@ sau đó hiển thị bằng công cụ **Teleplot** trong Visual Studio Code.
 ## 📈 Đồ thị ánh sáng theo thời gian thực
 Dưới đây là ảnh chụp từ **Teleplot** hiển thị giá trị ánh sáng đọc được:
 
-![Light Intensity Graph](teleplot_light_graph.png)
+![Light Intensity Graph](ldrteleplot.png)
 
 ## 📜 Mô tả hoạt động
 ESP32 đọc giá trị analog từ LDR mỗi 200 ms, in ra UART dưới dạng:
